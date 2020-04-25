@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260263791984",
+    "firebase_url": "https://taya-1587737504234.firebaseio.com",
+    "project_id": "taya-1587737504234",
+    "storage_bucket": "taya-1587737504234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260263791984:android:79086dcf5c70df640993b5",
+        "android_client_info": {
+          "package_name": "com.isracard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260263791984-mt45ujk7b7qm0o2b44vcjgp3uv3le7db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isracard",
+            "certificate_hash": "61352f43c67e33b294dc4b3dc8f2dcd524031946"
+          }
+        },
+        {
+          "client_id": "260263791984-rilveu5j96ajlcpludk3do7gc45jlbs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDo3h6681KArsX2xH0ttuPm-QhH79Cim8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260263791984-rilveu5j96ajlcpludk3do7gc45jlbs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
